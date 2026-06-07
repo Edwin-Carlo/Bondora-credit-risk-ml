@@ -35,3 +35,6 @@ data/processed/*.parquet
 # Sistema operativo
 .DS_Store
 Thumbs.db
+.venv/
+__pycache__/
+*.pyc
